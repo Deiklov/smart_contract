@@ -1,0 +1,8 @@
+{
+  "name": "smart_conract",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Deiklov/smart_contract.git",
+  "author": "Deiklov <romanov408g@mail.ru>",
+  "license": "MIT"
+}
